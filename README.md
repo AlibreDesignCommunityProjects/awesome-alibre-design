@@ -62,7 +62,7 @@ Installable libraries and packages for Alibre Design development and automation.
 - [Ex Machina Engineering](https://www.youtube.com/@ExMachinaEngineering) - Engineering and Alibre-related CAD content.
 - [HaroldL](https://www.youtube.com/channel/UCtaUi77CAkSMNHpflewcfOQ) - Community-created Alibre and technical content.
 - [stephensmitchell](https://www.youtube.com/@stephensmitchell) - Alibre development, automation, programming, and technical content.
-- [JOKO ENGINEERING](https://www.youtube.com/@JokoEngineeringhelp) - CAD and engineering tutorials including Alibre Design material.
+- [Joko Engineering](https://www.youtube.com/@JokoEngineeringhelp) - CAD and engineering tutorials including Alibre Design material.
 - [Too Tall Toby](https://www.youtube.com/@TooTallToby) - CAD modeling, challenges, and educational content.
 - [WeekdayWeekend](https://www.youtube.com/channel/UCZ16aVz3Mpycxf36s5QGOVw) - Videos about CAD, 3D printing, and other hobbies, with occasional livestreams of workshop model solves and video games.
 - [IQ Workshop](https://www.youtube.com/channel/UCJ5IFthfhbmiqHCMakgQysw) - Steve builds projects with CAD, 3D printing, electronics, laser cutting, and hobby CNC, sharing design changes and failed attempts along the way.
