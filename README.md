@@ -85,9 +85,9 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 ### Community Add-ons and Tools
 
 - [Cable Routing in Alibre](https://www.alibre.com/forum/index.php?threads/cable-routing-in-alibre.27067/) - Forum discussion about routing cables in Alibre Design.
-- [Auto Generate Assembly Drawings](https://www.alibre.com/forum/index.php?threads/auto-generate-assembly-drawings-in-alibre.27024/#post-186926) - Community automation for generating assembly drawings.
+- [Auto Generate Assembly Drawings](https://www.alibre.com/forum/index.php?threads/auto-generate-assembly-drawings-in-alibre.27024/#post-186926) - Forum discussion about automation for generating assembly drawings.
 - [Bend Complex Geometry](https://www.alibre.com/forum/index.php?threads/bend-a-complex-geometry-along-a-path-and-around-an-axis.27049/) - Forum discussion about bending geometry along a path or around an axis.
-- [Fillet Between Planes](https://www.alibre.com/forum/index.php?threads/my-fillet-between-planes-add-on-bonus-how-to-make-an-isogrid-pattern.27005/) - Community fillet add-on and isogrid workflow.
+- [Fillet Between Planes](https://www.alibre.com/forum/index.php?threads/my-fillet-between-planes-add-on-bonus-how-to-make-an-isogrid-pattern.27005/) - Forum discussion about fillet add-on and isogrid workflow.
 - [Sketch2DXF](https://www.alibre.com/forum/index.php?threads/sketch2dxf.26921/) - Community sketch-to-DXF tool.
 
 ### Commercial Add-ons
@@ -122,7 +122,6 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 
 - [alibre-to-freecad](https://github.com/tuffrabit/alibre-to-freecad) - Tools for converting Alibre Design parts to native FreeCAD parts.
 - [AlibreExportOpen](https://github.com/bolsover/AlibreExportOpen) - Exports Alibre designs as STL files and opens the exported files.
-- [AlibreImportStlAsStep](https://github.com/bolsover/AlibreImportStlAsStep) - Converts STL files to STEP with an external converter and imports the result into Alibre Design.
 - [alibre-neutralizer](https://github.com/k4kfh/alibre-neutralizer) - Batch-exports Alibre assemblies to neutral formats for repeatable open-source hardware and Git workflows.
 - [alibre-stltostp-addon](https://github.com/AlibreDesignCommunityProjects/alibre-stltostp-addon) - Community STL-to-STEP add-on.
 
