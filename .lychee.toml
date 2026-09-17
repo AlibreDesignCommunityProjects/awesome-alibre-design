@@ -1,0 +1,11 @@
+# Keep requests modest for community-hosted resources.
+max_concurrency = 4
+max_retries = 2
+timeout = 30
+retry_wait_time = 3
+
+# Check heading anchors, including the README contents links.
+include_fragments = "anchor-only"
+
+# CONTRIBUTING.md contains illustrative URLs inside fenced code blocks.
+include_verbatim = false

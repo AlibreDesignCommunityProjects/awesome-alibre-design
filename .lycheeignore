@@ -1,0 +1,6 @@
+# Alibre's homepage serves an automated-request verification page.
+^https://www\.alibre\.com/$
+
+# Alibre forum threads block or redirect automated requests.
+# Review these links in a browser; do not treat exclusions as verified links.
+^https://www\.alibre\.com/forum/
