@@ -60,7 +60,7 @@ Installable libraries and packages for Alibre Design development and automation.
 ### Community Creators
 
 - [Ex Machina Engineering](https://www.youtube.com/@ExMachinaEngineering) - Engineering and Alibre-related CAD content.
-- [HaroldL](https://www.youtube.com/channel/UCtaUi77CAkSMNHpflewcfOQ) - Community-created Alibre and technical content.
+- [HaroldL](https://www.youtube.com/channel/UCtaUi77CAkSMNHpflewcfOQ) - Practical Alibre CAD and sheet metal tutorials demonstrating powerful modeling techniques, SolidWorks-comparable workflows, and real-world part creation for users of all experience levels.
 - [stephensmitchell](https://www.youtube.com/@stephensmitchell) - Alibre development, automation, programming, and technical content.
 - [Joko Engineering](https://www.youtube.com/@JokoEngineeringhelp) - CAD and engineering tutorials including Alibre Design material.
 - [Too Tall Toby](https://www.youtube.com/@TooTallToby) - CAD modeling, challenges, and educational content.
