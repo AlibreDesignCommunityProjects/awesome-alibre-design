@@ -124,6 +124,7 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [AlibreExportOpen](https://github.com/bolsover/AlibreExportOpen) - Exports Alibre designs as STL files and opens the exported files.
 - [alibre-neutralizer](https://github.com/k4kfh/alibre-neutralizer) - Batch-exports Alibre assemblies to neutral formats for repeatable open-source hardware and Git workflows.
 - [alibre-stltostp-addon](https://github.com/AlibreDesignCommunityProjects/alibre-stltostp-addon) - Community STL-to-STEP add-on.
+- [StlStpConverter](https://github.com/bolsover/StlStpConverter)
 
 ## Contributing
 
