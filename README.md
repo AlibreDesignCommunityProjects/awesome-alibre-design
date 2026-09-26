@@ -79,6 +79,7 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [Karl690/AlibrePartInjector](https://github.com/Karl690/AlibrePartInjector) - Inserts a part into an open Alibre assembly from the command line.
 - [ftkalcevic/AlibreGears](https://github.com/ftkalcevic/AlibreGears) - C# tools for creating gears in Alibre Design; bevel gears are a work in progress.
 - [LemonExplosive/AlibreCadScripts](https://github.com/LemonExplosive/AlibreCadScripts) - Community Python scripts for Alibre CAD.
+- [EngineeredModern/alibre-dovetail-joint](https://github.com/EngineeredModern/alibre-dovetail-joint) - Sliding dovetail joint add-on for Alibre Design.
 
 ## Add-ons
 
@@ -89,6 +90,7 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [Bend Complex Geometry](https://www.alibre.com/forum/index.php?threads/bend-a-complex-geometry-along-a-path-and-around-an-axis.27049/) - Forum discussion about bending geometry along a path or around an axis.
 - [Fillet Between Planes](https://www.alibre.com/forum/index.php?threads/my-fillet-between-planes-add-on-bonus-how-to-make-an-isogrid-pattern.27005/) - Forum discussion about fillet add-on and isogrid workflow.
 - [Sketch2DXF](https://www.alibre.com/forum/index.php?threads/sketch2dxf.26921/) - Community sketch-to-DXF tool.
+- [DXF Flat Pattern Export](https://www.alibre.com/forum/index.php?threads/dxf-flat-pattern-export.27114/#post-187377) - Community tool for exporting DXF flat patterns.
 
 ### Commercial Add-ons
 
