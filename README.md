@@ -80,6 +80,7 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [ftkalcevic/AlibreGears](https://github.com/ftkalcevic/AlibreGears) - C# tools for creating gears in Alibre Design; bevel gears are a work in progress.
 - [LemonExplosive/AlibreCadScripts](https://github.com/LemonExplosive/AlibreCadScripts) - Community Python scripts for Alibre CAD.
 - [EngineeredModern/alibre-dovetail-joint](https://github.com/EngineeredModern/alibre-dovetail-joint) - Sliding dovetail joint add-on for Alibre Design.
+- [trednuK/AreaPropsForAlibre](https://github.com/trednuK/AreaPropsForAlibre) - Calculates area properties for a selected face in Alibre Design. [Forum](https://www.alibre.com/forum/index.php?resources/section-properties-calculator-for-alibre.154/).
 
 ## Add-ons
 
@@ -91,6 +92,10 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [Fillet Between Planes](https://www.alibre.com/forum/index.php?threads/my-fillet-between-planes-add-on-bonus-how-to-make-an-isogrid-pattern.27005/) - Forum discussion about fillet add-on and isogrid workflow.
 - [Sketch2DXF](https://www.alibre.com/forum/index.php?threads/sketch2dxf.26921/) - Community sketch-to-DXF tool.
 - [DXF Flat Pattern Export](https://www.alibre.com/forum/index.php?threads/dxf-flat-pattern-export.27114/#post-187377) - Community tool for exporting DXF flat patterns.
+- [BOM to CSV Script](https://www.alibre.com/forum/index.php?resources/bom-to-csv-script-alibrescript.153/) - Alibre Script that exports a bill of materials to CSV.
+- [ToolboxED RecTube](https://www.alibre.com/forum/index.php?resources/toolboxed_rectube.148/) - Rectangular tube Toolbox part for Alibre Design.
+- [Internal and External Gear Generator](https://www.alibre.com/forum/index.php?resources/a-better-internal-and-external-gear-generator-script-with-profil-shifting.139/) - Alibre Script that generates internal and external gears with profile shifting.
+- [Articulated Human Model](https://www.alibre.com/forum/index.php?resources/human_model_articulated.146/) - Articulated human model for Alibre Design.
 
 ### Commercial Add-ons
 
