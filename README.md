@@ -91,6 +91,8 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [Fillet Between Planes](https://www.alibre.com/forum/index.php?threads/my-fillet-between-planes-add-on-bonus-how-to-make-an-isogrid-pattern.27005/) - Forum discussion about fillet add-on and isogrid workflow.
 - [Sketch2DXF](https://www.alibre.com/forum/index.php?threads/sketch2dxf.26921/) - Community sketch-to-DXF tool.
 - [DXF Flat Pattern Export](https://www.alibre.com/forum/index.php?threads/dxf-flat-pattern-export.27114/#post-187377) - Community tool for exporting DXF flat patterns.
+- [Alibre Add-on Manager](https://www.alibre.com/forum/index.php?threads/and-one-add-on-to-rule-them-all-alibre-add-on-manager.27120/) - Community add-on for managing other Alibre Design add-ons.
+- [ZDBase DMS/PDM](https://www.alibre.com/forum/index.php?threads/zdbase-dms-pdm-for-alibre-design-and-atom3d.22283/) - Document and product-data management for Alibre Design and Atom3D.
 
 ### Commercial Add-ons
 
@@ -127,6 +129,9 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [alibre-neutralizer](https://github.com/k4kfh/alibre-neutralizer) - Batch-exports Alibre assemblies to neutral formats for repeatable open-source hardware and Git workflows.
 - [alibre-stltostp-addon](https://github.com/AlibreDesignCommunityProjects/alibre-stltostp-addon) - Community STL-to-STEP add-on.
 - [mariogt/stl-to-step-alibre](https://github.com/mariogt/stl-to-step-alibre) - STL to STEP converter for Alibre Design.
+- [HTML STL to faceted STEP](https://www.alibre.com/forum/index.php?threads/html-tool-that-converts-stl-meshes-into-faceted-step-free.27119/) - Free browser tool that converts STL meshes into faceted STEP files.
+- [STEP Web Viewer](https://www.alibre.com/forum/index.php?threads/step-web-viewer-share-alibre-assemblies-as-a-self-contained-3d-viewer-free.27134/) - Free self-contained browser viewer for sharing Alibre assemblies.
+- [WebCAD Viewer and Converter](https://www.alibre.com/forum/index.php?threads/webcad-viewer-and-converter-directly-in-your-browser.27145/) - Browser-based CAD viewer and converter.
 - [StlStpConverter](https://github.com/bolsover/StlStpConverter) - Library and win application for conversion from .stp to .stl
 
 ## Contributing
