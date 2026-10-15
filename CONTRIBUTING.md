@@ -36,7 +36,7 @@ Replace the example names and URLs with the resource's details. Write descriptio
 - **YouTube:** Creators with relevant Alibre content. Broader channel descriptions can reflect their stated focus.
 - **GitHub Projects:** Source repositories and collections. Use one organization link for AlibreDesignCommunityProjects in this section.
 - **Add-ons:** Community tools and commercial products, grouped under the matching subsection.
-- **Resources:** Parts, assemblies, drawings, and other Alibre files you open or insert. Do not list add-ons, scripts, or source repositories here.
+- **Resources:** Scripts, files, and other non-addons that do not fit another section.
 - **Resellers:** Alibre resellers and regional resources.
 - **Extensions:** Editor extensions, separated by Visual Studio and Visual Studio Code.
 - **Interoperability and Conversion:** Import, export, and file conversion tools, including source repositories.

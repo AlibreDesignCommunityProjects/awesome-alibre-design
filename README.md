@@ -93,9 +93,6 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [Fillet Between Planes](https://www.alibre.com/forum/index.php?threads/my-fillet-between-planes-add-on-bonus-how-to-make-an-isogrid-pattern.27005/) - Forum discussion about fillet add-on and isogrid workflow.
 - [Sketch2DXF](https://www.alibre.com/forum/index.php?threads/sketch2dxf.26921/) - Community sketch-to-DXF tool.
 - [DXF Flat Pattern Export](https://www.alibre.com/forum/index.php?threads/dxf-flat-pattern-export.27114/#post-187377) - Community tool for exporting DXF flat patterns.
-- [BOM to CSV Script](https://www.alibre.com/forum/index.php?resources/bom-to-csv-script-alibrescript.153/) - Alibre Script that exports a bill of materials to CSV.
-- [ToolboxED RecTube](https://www.alibre.com/forum/index.php?resources/toolboxed_rectube.148/) - Rectangular tube Toolbox part for Alibre Design.
-- [Internal and External Gear Generator](https://www.alibre.com/forum/index.php?resources/a-better-internal-and-external-gear-generator-script-with-profil-shifting.139/) - Alibre Script that generates internal and external gears with profile shifting.
 
 ### Commercial Add-ons
 
@@ -107,8 +104,11 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 
 ## Resources
 
-Alibre files you open or insert, such as parts, assemblies, and models. Not add-ons, scripts, or source repositories.
+Scripts, files, and other Alibre material that is not an add-on and does not belong in another section.
 
+- [BOM to CSV Script](https://www.alibre.com/forum/index.php?resources/bom-to-csv-script-alibrescript.153/) - Alibre Script that exports a bill of materials to CSV.
+- [Internal and External Gear Generator](https://www.alibre.com/forum/index.php?resources/a-better-internal-and-external-gear-generator-script-with-profil-shifting.139/) - Alibre Script that generates internal and external gears with profile shifting.
+- [ToolboxED RecTube](https://www.alibre.com/forum/index.php?resources/toolboxed_rectube.148/) - Rectangular tube Toolbox part for Alibre Design.
 - [Articulated Human Model](https://www.alibre.com/forum/index.php?resources/human_model_articulated.146/) - Articulated human model file for Alibre Design.
 
 ## Resellers
