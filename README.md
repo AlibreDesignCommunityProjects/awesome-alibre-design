@@ -91,6 +91,7 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [Fillet Between Planes](https://www.alibre.com/forum/index.php?threads/my-fillet-between-planes-add-on-bonus-how-to-make-an-isogrid-pattern.27005/) - Forum discussion about fillet add-on and isogrid workflow.
 - [Sketch2DXF](https://www.alibre.com/forum/index.php?threads/sketch2dxf.26921/) - Community sketch-to-DXF tool.
 - [DXF Flat Pattern Export](https://www.alibre.com/forum/index.php?threads/dxf-flat-pattern-export.27114/#post-187377) - Community tool for exporting DXF flat patterns.
+- [Mathematically Defined 3D Curves in Alibre](https://www.alibre.com/forum/index.php?threads/mathematically-defined-3d-curves-in-alibre.27159/#post-187675) - Forum discussion about creating mathematically defined 3D curves in Alibre Design.
 
 ### Commercial Add-ons
 
