@@ -99,6 +99,7 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [CompuPortAD](https://www.compupal.biz/compuportad/) - Adds mesh import, export, and simplification tools to the Alibre Design Part workspace. [Forum](https://www.alibre.com/forum/index.php?threads/compuportad.26411/).
 - [Frame Builder](https://liquidgravity.us/store_test/index.php/alibre-design-frame-builder/) - Creates structural frames from profile libraries, with tools for mitering, trimming, extending, and updating members. [Forum](https://www.alibre.com/forum/index.php?threads/release-frame-builder-v2_6_1.21412/).
 - [PolySTEP Converter](https://www.polystep.se/) - Converts polygon meshes to STEP, with mesh repair and 3D-printing analysis tools. [Forum](https://www.alibre.com/forum/index.php?threads/new-version-of-polystep-converter.26414/).
+- [SimWise 4D for Alibre](https://www.design-simulation.com/solutions/alibre.php) - Motion and FEA simulation for Alibre Design Expert and Professional, including stresses from dynamic loads. [Forum](https://www.alibre.com/forum/index.php?threads/simwise-4d-for-alibre-v-29.26814/).
 
 ## Resellers
 
