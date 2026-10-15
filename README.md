@@ -21,6 +21,7 @@
   - [Add-ons](#add-ons)
     - [Community Add-ons and Tools](#community-add-ons-and-tools)
     - [Commercial Add-ons](#commercial-add-ons)
+  - [AI and LLMs](#ai-and-llms)
   - [Resellers](#resellers)
   - [Extensions](#extensions)
     - [Visual Studio](#visual-studio)
@@ -99,6 +100,13 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [CompuPortAD](https://www.compupal.biz/compuportad/) - Adds mesh import, export, and simplification tools to the Alibre Design Part workspace. [Forum](https://www.alibre.com/forum/index.php?threads/compuportad.26411/).
 - [Frame Builder](https://liquidgravity.us/store_test/index.php/alibre-design-frame-builder/) - Creates structural frames from profile libraries, with tools for mitering, trimming, extending, and updating members. [Forum](https://www.alibre.com/forum/index.php?threads/release-frame-builder-v2_6_1.21412/).
 - [PolySTEP Converter](https://www.polystep.se/) - Converts polygon meshes to STEP, with mesh repair and 3D-printing analysis tools. [Forum](https://www.alibre.com/forum/index.php?threads/new-version-of-polystep-converter.26414/).
+
+## AI and LLMs
+
+Guides and assistants for using AI or LLMs with Alibre Design. Installable packages stay under Packages, and source repositories stay under GitHub Projects.
+
+- [Alibre development with GenAI, Agents and MCP](https://www.alibre.com/forum/index.php?threads/alibre-development-with-genai-agents-and-mcp.26075/) - Forum discussion of generative AI agents and MCP for Alibre Design development.
+- [AlibreScript Code Assistant Custom GPT](https://www.alibre.com/forum/index.php?threads/alibrescript-code-assistant-custom-gpt.24655/) - Forum thread about a custom GPT for Alibre Script.
 
 ## Resellers
 
