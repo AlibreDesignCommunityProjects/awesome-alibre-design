@@ -21,6 +21,7 @@
   - [Add-ons](#add-ons)
     - [Community Add-ons and Tools](#community-add-ons-and-tools)
     - [Commercial Add-ons](#commercial-add-ons)
+  - [Resources](#resources)
   - [Resellers](#resellers)
   - [Extensions](#extensions)
     - [Visual Studio](#visual-studio)
@@ -95,7 +96,6 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [BOM to CSV Script](https://www.alibre.com/forum/index.php?resources/bom-to-csv-script-alibrescript.153/) - Alibre Script that exports a bill of materials to CSV.
 - [ToolboxED RecTube](https://www.alibre.com/forum/index.php?resources/toolboxed_rectube.148/) - Rectangular tube Toolbox part for Alibre Design.
 - [Internal and External Gear Generator](https://www.alibre.com/forum/index.php?resources/a-better-internal-and-external-gear-generator-script-with-profil-shifting.139/) - Alibre Script that generates internal and external gears with profile shifting.
-- [Articulated Human Model](https://www.alibre.com/forum/index.php?resources/human_model_articulated.146/) - Articulated human model for Alibre Design.
 
 ### Commercial Add-ons
 
@@ -104,6 +104,12 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [CompuPortAD](https://www.compupal.biz/compuportad/) - Adds mesh import, export, and simplification tools to the Alibre Design Part workspace. [Forum](https://www.alibre.com/forum/index.php?threads/compuportad.26411/).
 - [Frame Builder](https://liquidgravity.us/store_test/index.php/alibre-design-frame-builder/) - Creates structural frames from profile libraries, with tools for mitering, trimming, extending, and updating members. [Forum](https://www.alibre.com/forum/index.php?threads/release-frame-builder-v2_6_1.21412/).
 - [PolySTEP Converter](https://www.polystep.se/) - Converts polygon meshes to STEP, with mesh repair and 3D-printing analysis tools. [Forum](https://www.alibre.com/forum/index.php?threads/new-version-of-polystep-converter.26414/).
+
+## Resources
+
+Alibre files you open or insert, such as parts, assemblies, and models. Not add-ons, scripts, or source repositories.
+
+- [Articulated Human Model](https://www.alibre.com/forum/index.php?resources/human_model_articulated.146/) - Articulated human model file for Alibre Design.
 
 ## Resellers
 
