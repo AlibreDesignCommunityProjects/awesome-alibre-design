@@ -93,6 +93,7 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [Fillet Between Planes](https://www.alibre.com/forum/index.php?threads/my-fillet-between-planes-add-on-bonus-how-to-make-an-isogrid-pattern.27005/) - Forum discussion about fillet add-on and isogrid workflow.
 - [Sketch2DXF](https://www.alibre.com/forum/index.php?threads/sketch2dxf.26921/) - Community sketch-to-DXF tool.
 - [DXF Flat Pattern Export](https://www.alibre.com/forum/index.php?threads/dxf-flat-pattern-export.27114/#post-187377) - Community tool for exporting DXF flat patterns.
+- [DXF Layer Fix Tool](https://www.alibre.com/forum/index.php?threads/exporting-dxf-files-that-cant-be-read-by-pronest.27017/#post-187656) - HTML tool (dxf_layer_fix.html.zip) that fixes DXF layers for files ProNest cannot read.
 - [Alibre Add-on Manager](https://www.alibre.com/forum/index.php?threads/and-one-add-on-to-rule-them-all-alibre-add-on-manager.27120/) - Community add-on for managing other Alibre Design add-ons.
 - [ZDBase DMS/PDM](https://www.alibre.com/forum/index.php?threads/zdbase-dms-pdm-for-alibre-design-and-atom3d.22283/) - Document and product-data management for Alibre Design and Atom3D.
 
