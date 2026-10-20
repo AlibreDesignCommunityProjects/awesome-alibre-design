@@ -21,6 +21,7 @@
   - [Add-ons](#add-ons)
     - [Community Add-ons and Tools](#community-add-ons-and-tools)
     - [Commercial Add-ons](#commercial-add-ons)
+  - [Resources](#resources)
   - [Resellers](#resellers)
   - [Extensions](#extensions)
     - [Visual Studio](#visual-studio)
@@ -80,6 +81,7 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [ftkalcevic/AlibreGears](https://github.com/ftkalcevic/AlibreGears) - C# tools for creating gears in Alibre Design; bevel gears are a work in progress.
 - [LemonExplosive/AlibreCadScripts](https://github.com/LemonExplosive/AlibreCadScripts) - Community Python scripts for Alibre CAD.
 - [EngineeredModern/alibre-dovetail-joint](https://github.com/EngineeredModern/alibre-dovetail-joint) - Sliding dovetail joint add-on for Alibre Design.
+- [trednuK/AreaPropsForAlibre](https://github.com/trednuK/AreaPropsForAlibre) - Calculates area properties for a selected face in Alibre Design. [Forum](https://www.alibre.com/forum/index.php?resources/section-properties-calculator-for-alibre.154/).
 
 ## Add-ons
 
@@ -92,6 +94,9 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [Sketch2DXF](https://www.alibre.com/forum/index.php?threads/sketch2dxf.26921/) - Community sketch-to-DXF tool.
 - [DXF Flat Pattern Export](https://www.alibre.com/forum/index.php?threads/dxf-flat-pattern-export.27114/#post-187377) - Community tool for exporting DXF flat patterns.
 - [Mathematically Defined 3D Curves in Alibre](https://www.alibre.com/forum/index.php?threads/mathematically-defined-3d-curves-in-alibre.27159/#post-187675) - Forum discussion about creating mathematically defined 3D curves in Alibre Design.
+- [DXF Layer Fix Tool](https://www.alibre.com/forum/index.php?threads/exporting-dxf-files-that-cant-be-read-by-pronest.27017/#post-187656) - HTML tool (dxf_layer_fix.html.zip) that fixes DXF layers for files ProNest cannot read.
+- [Alibre Add-on Manager](https://www.alibre.com/forum/index.php?threads/and-one-add-on-to-rule-them-all-alibre-add-on-manager.27120/) - Community add-on for managing other Alibre Design add-ons.
+- [ZDBase DMS/PDM](https://www.alibre.com/forum/index.php?threads/zdbase-dms-pdm-for-alibre-design-and-atom3d.22283/) - Document and product-data management for Alibre Design and Atom3D.
 
 ### Commercial Add-ons
 
@@ -100,7 +105,99 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [CompuPortAD](https://www.compupal.biz/compuportad/) - Adds mesh import, export, and simplification tools to the Alibre Design Part workspace. [Forum](https://www.alibre.com/forum/index.php?threads/compuportad.26411/).
 - [Frame Builder](https://liquidgravity.us/store_test/index.php/alibre-design-frame-builder/) - Creates structural frames from profile libraries, with tools for mitering, trimming, extending, and updating members. [Forum](https://www.alibre.com/forum/index.php?threads/release-frame-builder-v2_6_1.21412/).
 - [PolySTEP Converter](https://www.polystep.se/) - Converts polygon meshes to STEP, with mesh repair and 3D-printing analysis tools. [Forum](https://www.alibre.com/forum/index.php?threads/new-version-of-polystep-converter.26414/).
+- [SimWise 4D for Alibre](https://www.design-simulation.com/solutions/alibre.php) - Motion and FEA simulation for Alibre Design Expert and Professional, including stresses from dynamic loads. [Forum](https://www.alibre.com/forum/index.php?threads/simwise-4d-for-alibre-v-29.26814/).
 
+## Resources
+
+Scripts, files, and other Alibre material that is not an add-on and does not belong in another section.
+
+- [BOM to CSV Script](https://www.alibre.com/forum/index.php?resources/bom-to-csv-script-alibrescript.153/) - Alibre Script that exports a bill of materials to CSV.
+- [Internal and External Gear Generator](https://www.alibre.com/forum/index.php?resources/a-better-internal-and-external-gear-generator-script-with-profil-shifting.139/) - Alibre Script that generates internal and external gears with profile shifting.
+- [ToolboxED RecTube](https://www.alibre.com/forum/index.php?resources/toolboxed_rectube.148/) - Rectangular tube Toolbox part for Alibre Design.
+- [Articulated Human Model](https://www.alibre.com/forum/index.php?resources/human_model_articulated.146/) - Articulated human model file for Alibre Design.
+
+Alibre Forum resource pages. The label marks the forum source, including when the same project is listed in another section.
+
+- [Set Color from Material](https://www.alibre.com/forum/index.php?resources/set-color-from-material.150/) (Alibre Forum Resource) - Script that sets the part color from its material.
+- [Alibre Property Explorer](https://www.alibre.com/forum/index.php?resources/alibre-property-explorer.149/) (Alibre Forum Resource) - Script that browses Alibre part properties.
+- [ToolBoxed_RecTube](https://www.alibre.com/forum/index.php?resources/toolboxed_rectube.148/) (Alibre Forum Resource) - Toolbox part for rectangular tube.
+- [stepalibre's Resources](https://www.alibre.com/forum/index.php?resources/stepalibres-resources.145/) (Alibre Forum Resource) - Documentation index of stepalibre's resources.
+- [AlibreObjectModel, AlibreScriptWrapper](https://www.alibre.com/forum/index.php?resources/alibreobjectmodel-alibrescriptwrapper.147/) (Alibre Forum Resource) - Development libraries for the Alibre object model and Alibre Script.
+- [Alibre Design Extensions for Visual Studio](https://www.alibre.com/forum/index.php?resources/alibre-design-extensions-for-visual-studio.143/) (Alibre Forum Resource) - Visual Studio extension for Alibre Design.
+- [Add-on that allows conversion STL->STP and import](https://www.alibre.com/forum/index.php?resources/add-on-that-allows-conversion-stl-stp-and-import.140/) (Alibre Forum Resource) - Add-on that converts STL to STEP and imports it.
+- [Human_Model_Articulated](https://www.alibre.com/forum/index.php?resources/human_model_articulated.146/) (Alibre Forum Resource) - Articulated human 3D model.
+- [The Tool Store](https://www.alibre.com/forum/index.php?resources/the-tool-store.144/) (Alibre Forum Resource) - Frontend for the Tool Store.
+- [A better Internal and External Gear generator script with profil shifting](https://www.alibre.com/forum/index.php?resources/a-better-internal-and-external-gear-generator-script-with-profil-shifting.139/) (Alibre Forum Resource) - Script that generates internal and external gears with profile shifting.
+- [AlibreScript Playground](https://www.alibre.com/forum/index.php?resources/alibrescript-playground.142/) (Alibre Forum Resource) - Development IDE for Alibre Script.
+- [AlibreScript VS Code Extension](https://www.alibre.com/forum/index.php?resources/alibrescript-vs-code-extension.141/) (Alibre Forum Resource) - Visual Studio Code extension for Alibre Script.
+- [AutoHotKey script to change the color of a part](https://www.alibre.com/forum/index.php?resources/autohotkey-script-to-change-the-color-of-a-part.127/) (Alibre Forum Resource) - AutoHotkey script that changes a part color.
+- [Utilities for Alibre](https://www.alibre.com/forum/index.php?resources/utilities-for-alibre.125/) (Alibre Forum Resource) - Add-on of utilities for Alibre Design.
+- [UNC and UNF bolts and screws](https://www.alibre.com/forum/index.php?resources/unc-and-unf-bolts-and-screws.138/) (Alibre Forum Resource) - Toolbox parts for UNC and UNF bolts and screws.
+- [Frame Builder](https://www.alibre.com/forum/index.php?resources/frame-builder.123/) (Alibre Forum Resource) - Add-on that builds frames.
+- [AI-Generated Scripts and Add-Ons Database](https://www.alibre.com/forum/index.php?resources/ai-generated-scripts-and-add-ons-database.132/) (Alibre Forum Resource) - Database of AI-generated scripts and add-ons.
+- [Alibre Python Shell Installer](https://www.alibre.com/forum/index.php?resources/alibre-python-shell-installer.126/) (Alibre Forum Resource) - Installer for the Alibre Python shell.
+- [AI-Generated Scripts and Add-Ons Archives](https://www.alibre.com/forum/index.php?resources/ai-generated-scripts-and-add-ons-archives.137/) (Alibre Forum Resource) - Archive of AI-generated scripts and add-ons.
+- [Programming examples with Alibre Design](https://www.alibre.com/forum/index.php?resources/programming-examples-with-alibre-design.136/) (Alibre Forum Resource) - Documentation of programming examples for Alibre Design.
+- [Script Runner](https://www.alibre.com/forum/index.php?resources/script-runner.133/) (Alibre Forum Resource) - Script runner for Alibre Script.
+- [Additional threads for bolts and screws](https://www.alibre.com/forum/index.php?resources/additional-threads-for-bolts-and-screws.135/) (Alibre Forum Resource) - Toolbox parts with more bolt and screw threads.
+- [ADC/JSON for Alibre Design Custom GPT](https://www.alibre.com/forum/index.php?resources/adc-json-for-alibre-design-custom-gpt.134/) (Alibre Forum Resource) - Custom GPT for Alibre ADC and JSON.
+- [Hole presets](https://www.alibre.com/forum/index.php?resources/hole-presets.131/) (Alibre Forum Resource) - Toolbox hole presets.
+- [Projection symbols](https://www.alibre.com/forum/index.php?resources/projection-symbols.130/) (Alibre Forum Resource) - Drawing template for projection symbols.
+- [YouTube video list](https://www.alibre.com/forum/index.php?resources/youtube-video-list.129/) (Alibre Forum Resource) - Reference list of YouTube video titles.
+- [Catalog thread profiles](https://www.alibre.com/forum/index.php?resources/catalog-thread-profiles.128/) (Alibre Forum Resource) - Catalog feature for thread profiles.
+- [Specifications of International Thread Standards](https://www.alibre.com/forum/index.php?resources/specifications-of-international-thread-standards.124/) (Alibre Forum Resource) - Thread-standard reference from xrayxray.
+- [Sheet metal thread form](https://www.alibre.com/forum/index.php?resources/sheet-metal-thread-form.112/) (Alibre Forum Resource) - Catalog feature for a sheet metal thread form.
+- [Shortcuts Add-On for Alibre Design](https://www.alibre.com/forum/index.php?resources/shortcuts-add-on-for-alibre-design.122/) (Alibre Forum Resource) - Add-on that shows Alibre command shortcuts.
+- [Metric SHS RHS CHS](https://www.alibre.com/forum/index.php?resources/metric-shs-rhs-chs.121/) (Alibre Forum Resource) - Toolbox parts for metric square, rectangular, and circular hollow sections.
+- [ISO SHCS](https://www.alibre.com/forum/index.php?resources/iso-shcs.120/) (Alibre Forum Resource) - Toolbox parts for ISO socket head cap screws.
+- [Circlips](https://www.alibre.com/forum/index.php?resources/circlips.119/) (Alibre Forum Resource) - Toolbox parts for circlips.
+- [Section Properties for Alibre Sketched Sections](https://www.alibre.com/forum/index.php?resources/section-properties-for-alibre-sketched-sections.118/) (Alibre Forum Resource) - Script that calculates section properties for sketched sections.
+- [Specifications of International Thread Standards](https://www.alibre.com/forum/index.php?resources/specifications-of-international-thread-standards.117/) (Alibre Forum Resource) - Thread-standard reference from GIOV.
+- [Sheet metal gusset](https://www.alibre.com/forum/index.php?resources/sheet-metal-gusset.116/) (Alibre Forum Resource) - Catalog feature for a sheet metal gusset.
+- [Export and Open .stl files](https://www.alibre.com/forum/index.php?resources/export-and-open-stl-files.115/) (Alibre Forum Resource) - Add-on that exports and opens STL files.
+- [Open end louver](https://www.alibre.com/forum/index.php?resources/open-end-louver.114/) (Alibre Forum Resource) - Catalog feature for an open end louver.
+- [Closed end twist louver](https://www.alibre.com/forum/index.php?resources/closed-end-twist-louver.113/) (Alibre Forum Resource) - Catalog feature for a closed end twist louver.
+- [Louver closed end](https://www.alibre.com/forum/index.php?resources/louver-closed-end.110/) (Alibre Forum Resource) - Catalog feature for a closed end louver.
+- [Card guide](https://www.alibre.com/forum/index.php?resources/card-guide.111/) (Alibre Forum Resource) - Catalog feature for a card guide.
+- [Learning by Simulation](https://www.alibre.com/forum/index.php?resources/learning-by-simulation.109/) (Alibre Forum Resource) - Education resource, Learning by Simulation.
+- [POLYCAD](https://www.alibre.com/forum/index.php?resources/polycad.107/) (Alibre Forum Resource) - Boat-design tool, POLYCAD.
+- [Gear templates](https://www.alibre.com/forum/index.php?resources/gear-templates.106/) (Alibre Forum Resource) - 3D model of gear templates.
+- [Cycloidal Gear Generator](https://www.alibre.com/forum/index.php?resources/cycloidal-gear-generator.102/) (Alibre Forum Resource) - Script that generates cycloidal gears.
+- [CD jewel case](https://www.alibre.com/forum/index.php?resources/cd-jewel-case.104/) (Alibre Forum Resource) - 3D model of a CD jewel case.
+- [NF-A4x10 FLX fan](https://www.alibre.com/forum/index.php?resources/nf-a4x10-flx-fan.103/) (Alibre Forum Resource) - 3D model of an NF-A4x10 FLX fan.
+- [ACME Threads](https://www.alibre.com/forum/index.php?resources/acme-threads.100/) (Alibre Forum Resource) - Reference for ACME threads.
+- [UN Threads](https://www.alibre.com/forum/index.php?resources/un-threads.99/) (Alibre Forum Resource) - Reference for UN threads.
+- [GeoGebra](https://www.alibre.com/forum/index.php?resources/geogebra.98/) (Alibre Forum Resource) - Math tool, GeoGebra.
+- [Undercut script](https://www.alibre.com/forum/index.php?resources/undercut-script.94/) (Alibre Forum Resource) - Script that creates undercuts.
+- [WizoGrid](https://www.alibre.com/forum/index.php?resources/wizogrid.97/) (Alibre Forum Resource) - Sheet-metal tool, WizoGrid.
+- [Worthington](https://www.alibre.com/forum/index.php?resources/worthington.96/) (Alibre Forum Resource) - 3D model of the Worthington.
+- [MVE LAB20](https://www.alibre.com/forum/index.php?resources/mve-lab20.95/) (Alibre Forum Resource) - 3D model of the MVE LAB20.
+- [Smath Studio](https://www.alibre.com/forum/index.php?resources/smath-studio.92/) (Alibre Forum Resource) - Math tool, Smath Studio.
+- [Wizotool](https://www.alibre.com/forum/index.php?resources/wizotool.91/) (Alibre Forum Resource) - Sheet-metal tool, Wizotool.
+- [K-factor for sheet metal](https://www.alibre.com/forum/index.php?resources/k-factor-for-sheet-metal.90/) (Alibre Forum Resource) - Reference for sheet metal K-factors.
+- [42-40 stepper motor](https://www.alibre.com/forum/index.php?resources/42-40-stepper-motor.89/) (Alibre Forum Resource) - 3D model of a 42-40 stepper motor.
+- [Humbucker](https://www.alibre.com/forum/index.php?resources/humbucker.88/) (Alibre Forum Resource) - 3D model of a humbucker.
+- [Tuner](https://www.alibre.com/forum/index.php?resources/tuner.87/) (Alibre Forum Resource) - 3D model of a tuner.
+- [Bridge](https://www.alibre.com/forum/index.php?resources/bridge.86/) (Alibre Forum Resource) - 3D model of a bridge.
+- [Hydraulic cylinder](https://www.alibre.com/forum/index.php?resources/hydraulic-cylinder.85/) (Alibre Forum Resource) - 3D model of a hydraulic cylinder.
+- [Crib sheet for threads](https://www.alibre.com/forum/index.php?resources/crib-sheet-for-threads.83/) (Alibre Forum Resource) - Reference crib sheet for threads.
+- [PCO preform](https://www.alibre.com/forum/index.php?resources/pco-preform.82/) (Alibre Forum Resource) - 3D model of a PCO preform.
+- [Hole preset info](https://www.alibre.com/forum/index.php?resources/hole-preset-info.81/) (Alibre Forum Resource) - Reference for hole presets.
+- [Dovetail O-ring groove](https://www.alibre.com/forum/index.php?resources/dovetail-o-ring-groove.80/) (Alibre Forum Resource) - Catalog feature for a dovetail O-ring groove.
+- [Belleville disc spring washers](https://www.alibre.com/forum/index.php?resources/belleville-disc-spring-washers.79/) (Alibre Forum Resource) - Toolbox parts for Belleville disc spring washers.
+- [Materials file](https://www.alibre.com/forum/index.php?resources/materials-file.26/) (Alibre Forum Resource) - Material file for Alibre Design.
+- [SAE nuts](https://www.alibre.com/forum/index.php?resources/sae-nuts.76/) (Alibre Forum Resource) - Toolbox parts for SAE nuts.
+- [Centering bushes](https://www.alibre.com/forum/index.php?resources/centering-bushes.75/) (Alibre Forum Resource) - Toolbox parts for centering bushes.
+- [CSK screws](https://www.alibre.com/forum/index.php?resources/csk-screws.74/) (Alibre Forum Resource) - Toolbox parts for countersunk screws.
+- [Cap screws](https://www.alibre.com/forum/index.php?resources/cap-screws.73/) (Alibre Forum Resource) - Toolbox parts for cap screws.
+- [Dowel](https://www.alibre.com/forum/index.php?resources/dowel.72/) (Alibre Forum Resource) - Toolbox parts for dowels.
+- [Harting HAN 3A](https://www.alibre.com/forum/index.php?resources/harting-han-3a.71/) (Alibre Forum Resource) - 3D model of a Harting HAN 3A connector.
+- [Ejector pins](https://www.alibre.com/forum/index.php?resources/ejector-pins.70/) (Alibre Forum Resource) - Toolbox parts for ejector pins.
+- [Metric nuts](https://www.alibre.com/forum/index.php?resources/metric-nuts.69/) (Alibre Forum Resource) - Toolbox parts for metric nuts.
+- [Button head](https://www.alibre.com/forum/index.php?resources/button-head.67/) (Alibre Forum Resource) - Toolbox parts for button head screws.
+- [Rivet B](https://www.alibre.com/forum/index.php?resources/rivet-b.66/) (Alibre Forum Resource) - Toolbox parts for rivet B.
+- [Rivet A](https://www.alibre.com/forum/index.php?resources/rivet-a.65/) (Alibre Forum Resource) - Toolbox parts for rivet A.
+- [Washers](https://www.alibre.com/forum/index.php?resources/washers.64/) (Alibre Forum Resource) - Toolbox parts for metric washers.
 ## Resellers
 
 - [Alibre Design Deutschland · O-Punkt CAD GmbH](https://alibre.info/) - German Alibre Design reseller and regional resource.
@@ -128,6 +225,9 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [alibre-neutralizer](https://github.com/k4kfh/alibre-neutralizer) - Batch-exports Alibre assemblies to neutral formats for repeatable open-source hardware and Git workflows.
 - [alibre-stltostp-addon](https://github.com/AlibreDesignCommunityProjects/alibre-stltostp-addon) - Community STL-to-STEP add-on.
 - [mariogt/stl-to-step-alibre](https://github.com/mariogt/stl-to-step-alibre) - STL to STEP converter for Alibre Design.
+- [HTML STL to faceted STEP](https://www.alibre.com/forum/index.php?threads/html-tool-that-converts-stl-meshes-into-faceted-step-free.27119/) - Free browser tool that converts STL meshes into faceted STEP files.
+- [STEP Web Viewer](https://www.alibre.com/forum/index.php?threads/step-web-viewer-share-alibre-assemblies-as-a-self-contained-3d-viewer-free.27134/) - Free self-contained browser viewer for sharing Alibre assemblies.
+- [WebCAD Viewer and Converter](https://www.alibre.com/forum/index.php?threads/webcad-viewer-and-converter-directly-in-your-browser.27145/) - Browser-based CAD viewer and converter.
 - [StlStpConverter](https://github.com/bolsover/StlStpConverter) - Library and win application for conversion from .stp to .stl
 
 ## Contributing
