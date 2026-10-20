@@ -37,6 +37,7 @@ Replace the example names and URLs with the resource's details. Write descriptio
 - **GitHub Projects:** Source repositories and collections. Use one organization link for AlibreDesignCommunityProjects in this section.
 - **Add-ons:** Community tools and commercial products, grouped under the matching subsection.
 - **AI and LLMs:** Guides, assistants, and other material for using AI or large language models with Alibre Design. Keep installable packages in Packages and source repositories in GitHub Projects.
+- **Resources:** Alibre Forum resource pages. Mark each entry (Alibre Forum Resource). Keep the forum page even when the same project is listed in another section.
 - **Resellers:** Alibre resellers and regional resources.
 - **Extensions:** Editor extensions, separated by Visual Studio and Visual Studio Code.
 - **Interoperability and Conversion:** Import, export, and file conversion tools, including source repositories.
