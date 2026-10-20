@@ -21,6 +21,7 @@
   - [Add-ons](#add-ons)
     - [Community Add-ons and Tools](#community-add-ons-and-tools)
     - [Commercial Add-ons](#commercial-add-ons)
+  - [AI and LLMs](#ai-and-llms)
   - [Resources](#resources)
   - [Resellers](#resellers)
   - [Extensions](#extensions)
@@ -106,6 +107,8 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [Frame Builder](https://liquidgravity.us/store_test/index.php/alibre-design-frame-builder/) - Creates structural frames from profile libraries, with tools for mitering, trimming, extending, and updating members. [Forum](https://www.alibre.com/forum/index.php?threads/release-frame-builder-v2_6_1.21412/).
 - [PolySTEP Converter](https://www.polystep.se/) - Converts polygon meshes to STEP, with mesh repair and 3D-printing analysis tools. [Forum](https://www.alibre.com/forum/index.php?threads/new-version-of-polystep-converter.26414/).
 - [SimWise 4D for Alibre](https://www.design-simulation.com/solutions/alibre.php) - Motion and FEA simulation for Alibre Design Expert and Professional, including stresses from dynamic loads. [Forum](https://www.alibre.com/forum/index.php?threads/simwise-4d-for-alibre-v-29.26814/).
+
+## AI and LLMs
 
 ## Resources
 
