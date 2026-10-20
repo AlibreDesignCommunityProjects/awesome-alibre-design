@@ -81,6 +81,7 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [ftkalcevic/AlibreGears](https://github.com/ftkalcevic/AlibreGears) - C# tools for creating gears in Alibre Design; bevel gears are a work in progress.
 - [LemonExplosive/AlibreCadScripts](https://github.com/LemonExplosive/AlibreCadScripts) - Community Python scripts for Alibre CAD.
 - [EngineeredModern/alibre-dovetail-joint](https://github.com/EngineeredModern/alibre-dovetail-joint) - Sliding dovetail joint add-on for Alibre Design.
+- [trednuK/AreaPropsForAlibre](https://github.com/trednuK/AreaPropsForAlibre) - Calculates area properties for a selected face in Alibre Design. [Forum](https://www.alibre.com/forum/index.php?resources/section-properties-calculator-for-alibre.154/).
 
 ## Add-ons
 
@@ -104,6 +105,13 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [PolySTEP Converter](https://www.polystep.se/) - Converts polygon meshes to STEP, with mesh repair and 3D-printing analysis tools. [Forum](https://www.alibre.com/forum/index.php?threads/new-version-of-polystep-converter.26414/).
 
 ## Resources
+
+Scripts, files, and other Alibre material that is not an add-on and does not belong in another section.
+
+- [BOM to CSV Script](https://www.alibre.com/forum/index.php?resources/bom-to-csv-script-alibrescript.153/) - Alibre Script that exports a bill of materials to CSV.
+- [Internal and External Gear Generator](https://www.alibre.com/forum/index.php?resources/a-better-internal-and-external-gear-generator-script-with-profil-shifting.139/) - Alibre Script that generates internal and external gears with profile shifting.
+- [ToolboxED RecTube](https://www.alibre.com/forum/index.php?resources/toolboxed_rectube.148/) - Rectangular tube Toolbox part for Alibre Design.
+- [Articulated Human Model](https://www.alibre.com/forum/index.php?resources/human_model_articulated.146/) - Articulated human model file for Alibre Design.
 
 Alibre Forum resource pages. The label marks the forum source, including when the same project is listed in another section.
 
