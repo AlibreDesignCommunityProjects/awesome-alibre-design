@@ -97,6 +97,7 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 - [DXF Layer Fix Tool](https://www.alibre.com/forum/index.php?threads/exporting-dxf-files-that-cant-be-read-by-pronest.27017/#post-187656) - HTML tool (dxf_layer_fix.html.zip) that fixes DXF layers for files ProNest cannot read.
 - [Alibre Add-on Manager](https://www.alibre.com/forum/index.php?threads/and-one-add-on-to-rule-them-all-alibre-add-on-manager.27120/) - Community add-on for managing other Alibre Design add-ons.
 - [ZDBase DMS/PDM](https://www.alibre.com/forum/index.php?threads/zdbase-dms-pdm-for-alibre-design-and-atom3d.22283/) - Document and product-data management for Alibre Design and Atom3D.
+- [Alibre Thumbnailer](https://www.alibre.com/forum/index.php?threads/improved-alibre-and-atom3d-thumbnailer.27180/#post-187874) - Improved thumbnailer for Alibre Design and Atom3D.
 
 ### Commercial Add-ons
 
