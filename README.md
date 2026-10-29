@@ -111,13 +111,16 @@ Source repositories, scripts, utilities, and add-ons related to Alibre Design. S
 
 Scripts, files, and other Alibre material that is not an add-on and does not belong in another section.
 
-- [BOM to CSV Script](https://www.alibre.com/forum/index.php?resources/bom-to-csv-script-alibrescript.153/) - Alibre Script that exports a bill of materials to CSV.
+- [BOM to CSV Script](https://www.alibre.com/forum/index.php?resources/bom-to-csv-script-alibrescript.153/) (Alibre Forum Resource) - Alibre Script that exports a bill of materials to CSV.
 - [Internal and External Gear Generator](https://www.alibre.com/forum/index.php?resources/a-better-internal-and-external-gear-generator-script-with-profil-shifting.139/) - Alibre Script that generates internal and external gears with profile shifting.
 - [ToolboxED RecTube](https://www.alibre.com/forum/index.php?resources/toolboxed_rectube.148/) - Rectangular tube Toolbox part for Alibre Design.
 - [Articulated Human Model](https://www.alibre.com/forum/index.php?resources/human_model_articulated.146/) - Articulated human model file for Alibre Design.
 
 Alibre Forum resource pages. The label marks the forum source, including when the same project is listed in another section.
 
+- [Section Properties Calculator for Alibre](https://www.alibre.com/forum/index.php?resources/section-properties-calculator-for-alibre.154/) (Alibre Forum Resource) - Section properties calculator for Alibre Design.
+- [Wireframe 2D Sketches for Alibre Design Weldments Evaluation](https://www.alibre.com/forum/index.php?resources/wireframe-2d-sketches-for-alibre-design-weldments-evaluation.152/) (Alibre Forum Resource) - Wireframe 2D sketches for evaluating Alibre Design weldments.
+- [Wireframe 3D Sketches for Alibre Design Weldments Evaluation](https://www.alibre.com/forum/index.php?resources/wireframe-3d-sketches-for-alibre-design-weldments-evaluation.151/) (Alibre Forum Resource) - Wireframe 3D sketches for evaluating Alibre Design weldments.
 - [Set Color from Material](https://www.alibre.com/forum/index.php?resources/set-color-from-material.150/) (Alibre Forum Resource) - Script that sets the part color from its material.
 - [Alibre Property Explorer](https://www.alibre.com/forum/index.php?resources/alibre-property-explorer.149/) (Alibre Forum Resource) - Script that browses Alibre part properties.
 - [ToolBoxed_RecTube](https://www.alibre.com/forum/index.php?resources/toolboxed_rectube.148/) (Alibre Forum Resource) - Toolbox part for rectangular tube.
